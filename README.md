@@ -26,7 +26,7 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -78,7 +78,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
-```
+```c
 #include <stdio.h>
 #define PI 3.14159
 int main() {
@@ -118,7 +118,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
-```
+```c
 #include <stdio.h>
 int main() {
     int intVar = 25;
@@ -175,7 +175,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
-```
+```c
 #include <stdio.h>
 int main() {
     int a, b;
@@ -250,7 +250,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
-```
+```c
 #include<stdio.h>
 int main(){
     char ch;
